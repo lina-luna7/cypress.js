@@ -1,0 +1,17 @@
+{
+  "name": "new_cypress-main",
+  "version": "1.0.0",
+  "description": "<h2>UI Автотесты на фреймворке Cypress</h2>",
+  "keywords": [],
+  "license": "ISC",
+  "author": "Angelina <lina.luna7@yandex.ru>",
+  "type": "commonjs",
+  "main": "cypress.config.js",
+  "scripts": {
+    "cypress:open": "cypress open"
+  },
+  "dependencies": {
+    "cypress": "^12.7.0",
+    "qs": "^6.11.0"
+  }
+}
